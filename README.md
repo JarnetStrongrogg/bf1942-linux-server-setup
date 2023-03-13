@@ -13,7 +13,7 @@ Setup a Battlefield 1942 Dedicated Server on a Raspberry Pi
 
 
 # Setup & Install BF1942 Server on a RPi4
-1. Send the script: (bf1942-server-install-v01.sh) to your linux server via FileZilla or similar along with "bf1942_lnxded-1.6-rc2.tar" and "bf1942-update-1.61.tar.gz" .
+1. Send the script: (bf1942-server-install-v01.sh) to your Raspberry Pi 4 via FileZilla or similar along with "bf1942_lnxded-1.6-rc2.tar" and "bf1942-update-1.61.tar.gz" .
 
 
 2. SSH in to the server and make the script executable with the following command: 
